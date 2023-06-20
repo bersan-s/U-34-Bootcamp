@@ -45,8 +45,7 @@ Nükleer fabrikasında işçi olan Max, işe gitmek için erkenden yola çıkmak
 Uzunca bir yürüyüşün ardından ağaçların arasında beliren fabrikayı görür. Camlardan yansıyan ışığın her zamankinden daha fazla olduğunu fark eder ancak anlam veremez. Üzerine fazla düşünmeden fabrikaya doğru ilerler. Kapıyı açar, fabrikanın her zaman çalışmakta olduğu bölümüne doğru ilerler. Sistemi başlattığında aniden alarmlar çalmaya başlar. Max, sorunun kaynağının nereden geldiğini anlayamaz. Fabrikanın verilerinin depolandığı odaya doğru koşar. Bu odada yapay zekanın yardımını alarak sorunun kaynağını hemen çözmeyi hedefler.
 Ekranın karşısında sorunun kaynağını anlamaya çalışırken yapay zekânın sorularına istediği şekilde yanıt vermediğini, emir verici nitelikte konuşmaya başladığını fark eder. Sorun gittikçe büyümektedir. Yapay zekâ artık Max’in tamamen kontrolünden çıkmaya başlamaktadır. Max, panik içerisinde bilgisayarın başından kalkar, sen olup bittiğini anlamaya çalışır. Kafasını çevirdiğinde, odadaki çok önemli kimyasallardan birisinin şişeden kırılıp, yapay zeka verilerinin depolandığı kaynağa döküldüğünü görür. Artık bambaşka bir forma bürünen yapay zekâ gücünü yalnızca insanlardan değil oldukça güçlü bir kimyasaldan da almaktadır. Max, artık fabrikanın tüm sistemini ele geçirmek üzere olan bu sistem ile bir an önce mücadele etmek durumundadır.
 
-# Sprint Miro Board 
-https://miro.com/app/board/uXjVM8j0RsA=/?share_link_id=872025880966
+
 
 # Sprint 1: 
 
