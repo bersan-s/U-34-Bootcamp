@@ -21,6 +21,13 @@ https://trello.com/invite/b/YWBU4RTJ/ATTIbd3279164f0ce1c2d00153b65e5c91fc6D23659
 Oyun türü: 	3D fast-paced action-adventure
 First-person 
 	
+# Ürün Durumu 
+
+<img width="1211" alt="Screen Shot 2023-06-20 at 21 23 50" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/c32de749-fbf7-4189-8793-f72d3bf0d041">
+
+<img width="883" alt="Screen Shot 2023-06-20 at 21 23 59" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/00792b60-1576-4119-8d1b-0fced1e48353">
+
+
 
 ### Oyun Hikayesi: 
 
@@ -38,7 +45,12 @@ Nükleer fabrikasında işçi olan Max, işe gitmek için erkenden yola çıkmak
 Uzunca bir yürüyüşün ardından ağaçların arasında beliren fabrikayı görür. Camlardan yansıyan ışığın her zamankinden daha fazla olduğunu fark eder ancak anlam veremez. Üzerine fazla düşünmeden fabrikaya doğru ilerler. Kapıyı açar, fabrikanın her zaman çalışmakta olduğu bölümüne doğru ilerler. Sistemi başlattığında aniden alarmlar çalmaya başlar. Max, sorunun kaynağının nereden geldiğini anlayamaz. Fabrikanın verilerinin depolandığı odaya doğru koşar. Bu odada yapay zekanın yardımını alarak sorunun kaynağını hemen çözmeyi hedefler.
 Ekranın karşısında sorunun kaynağını anlamaya çalışırken yapay zekânın sorularına istediği şekilde yanıt vermediğini, emir verici nitelikte konuşmaya başladığını fark eder. Sorun gittikçe büyümektedir. Yapay zekâ artık Max’in tamamen kontrolünden çıkmaya başlamaktadır. Max, panik içerisinde bilgisayarın başından kalkar, sen olup bittiğini anlamaya çalışır. Kafasını çevirdiğinde, odadaki çok önemli kimyasallardan birisinin şişeden kırılıp, yapay zeka verilerinin depolandığı kaynağa döküldüğünü görür. Artık bambaşka bir forma bürünen yapay zekâ gücünü yalnızca insanlardan değil oldukça güçlü bir kimyasaldan da almaktadır. Max, artık fabrikanın tüm sistemini ele geçirmek üzere olan bu sistem ile bir an önce mücadele etmek durumundadır.
 
+# Sprint Miro Board 
+https://miro.com/app/board/uXjVM8j0RsA=/?share_link_id=872025880966
+
 # Sprint 1: 
+
+<img width="625" alt="Screen Shot 2023-06-20 at 21 53 12" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/b9a3c7b5-d15d-46cf-8a28-4dc3521ec28d">
 
 Sprint içinde tamamlanması tahmin edilen puan: 150  Puan
 
@@ -48,11 +60,6 @@ Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına kar
 
 Toplantı kayıtları için ssler : https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit?usp=sharing 
 
-
-
-
-
-
 ## Sprint Review:
 Roller belirlendi.
 Görevler belirlendi ve görev dağılımı yapıldı. 
@@ -60,12 +67,12 @@ Github Desktop gibi grupça belirlenmiş gerekli uygulamalar takımca indirildi.
 Oyun fikri ve teması belirlendi. Kısa bir hikaye yazıldı.
 Gerekli olduğu düşünülen Assetler bulundu. 
 
-
-
 ## Sprint Retrospective:
 
 Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 İletişim için mesajlaşmaya da geçilmesi gerektiğine karar verildi. 
+
+#Sprint 2 
 
 
 
