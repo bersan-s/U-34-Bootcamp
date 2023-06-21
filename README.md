@@ -76,7 +76,7 @@ Gerekli olduğu düşünülen Assetler bulundu.
 Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 İletişim için mesajlaşmaya da geçilmesi gerektiğine karar verildi. 
 
-#Sprint 2 
+# Sprint 2 
 
 
 
