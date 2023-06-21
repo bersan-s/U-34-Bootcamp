@@ -5,10 +5,15 @@
 ## Takım Üyeleri ve Roller 
 
 Berşan Şamlıoğlu	Scrum Master /Artist /Developer 
+
 Selin Sümbül		Product Owner /Artist /Developer
+
 Burakcan Gökkaya	Developer
+
 Berke Tabak		Developer
+
 Ahmet Bulut		Developer
+
 
 ## Product BackLog 
 
