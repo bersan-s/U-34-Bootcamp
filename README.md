@@ -79,7 +79,21 @@ Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 
 # Sprint 2 
 
+<img width="981" alt="Screen Shot 2023-06-25 at 14 28 06" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/dfc97f4a-dc45-420f-9f53-194c514f7b4d">
 
+Sprint içinde tamamlanması gereken puan: 150 
 
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3'e bölerek elde ettiğimiz puan 150'dir. Bu puan sistemi trelloda genel yapılacaklar listesinden belirlenmiştir. Miro Board'da her sprint başı güncelleyerek yapılacaklarımızı düzenleyerek ilerliyoruz.
 
+Daily Scrum: Daily Scrum toplantılarının Discord hem ses hem de yazı kanalı üzerinden yapılmasına karar verilmiştir. Bu doğrultuda üyeler katılım sağlamıştır. Toplantı kayıtları için ssler bu linktedir: https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit
+
+## Sprint Review:
+UI/UX Kod yazıldı. 
+FPS Player control yazıldı.
+Unity belgeleri Github'a eklendi.
+Bazı Assetler bulundu. 
+
+## Sprint Retrospective:
+Harita ve NPC (AI) eklenmesi gerekiyordu fakat zaman sıkıntısından ötürü eklenemedi. 
+Gelecek sprintte daha yoğun çalışılarak açık kapatılmalı. 
 
