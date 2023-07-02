@@ -94,8 +94,9 @@ UI/UX Kod yazıldı.
 FPS Player control yazıldı.
 Unity belgeleri Github'a eklendi.
 Bazı Assetler bulundu. 
+Harita eklendi. 
 
 ## Sprint Retrospective:
-Harita ve NPC (AI) eklenmesi gerekiyordu fakat zaman sıkıntısından ötürü eklenemedi. 
+NPC (AI) eklenmesi gerekiyordu fakat zaman sıkıntısından ötürü eklenemedi. 
 Gelecek sprintte daha yoğun çalışılarak açık kapatılmalı. 
 
