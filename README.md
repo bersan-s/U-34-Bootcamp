@@ -81,7 +81,7 @@ Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 
 # Sprint 2 
 
-<img width="981" alt="Screen Shot 2023-06-25 at 14 28 06" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/dfc97f4a-dc45-420f-9f53-194c514f7b4d">
+<img width="1042" alt="Screen Shot 2023-07-02 at 22 09 36" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/0e08ec85-1c5d-44a4-adc3-fb85e91c1667">
 
 Sprint içinde tamamlanması gereken puan: 150 
 
@@ -97,6 +97,6 @@ Bazı Assetler bulundu.
 Harita eklendi. 
 
 ## Sprint Retrospective:
-NPC (AI) eklenmesi gerekiyordu fakat zaman sıkıntısından ötürü eklenemedi. 
+NPC (AI) + Combat eklenmesi gerekiyordu fakat zaman sıkıntısından ötürü eklenemedi. 
 Gelecek sprintte daha yoğun çalışılarak açık kapatılmalı. 
 
