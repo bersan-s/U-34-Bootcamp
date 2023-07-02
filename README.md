@@ -23,9 +23,15 @@ First-person
 	
 # Ürün Durumu 
 
+Sprint 1'deki durum:
+
 <img width="1211" alt="Screen Shot 2023-06-20 at 21 23 50" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/c32de749-fbf7-4189-8793-f72d3bf0d041">
 
 <img width="883" alt="Screen Shot 2023-06-20 at 21 23 59" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/00792b60-1576-4119-8d1b-0fced1e48353">
+
+Sprint 2'deki durum: 
+
+<img width="1174" alt="Screen Shot 2023-07-02 at 13 24 29" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/6bb5bb7f-61cf-499f-b855-74cb259e8a59">
 
 
 
