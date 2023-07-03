@@ -80,14 +80,18 @@ Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 İletişim için mesajlaşmaya da geçilmesi gerektiğine karar verildi. 
 
 # SPRINT 2
+## Sprint Notları 
+2. sprintte, toplantı notlarında da görülebileceği üzere, Github'dayaşadığımız sıkıntılar çözüldü. Github belgeleri yeniden düzenlendi ve problem çözüldü. Bunun yanı sıra, FPS ve Harita sistemi eklendi. UI için kodlar yazıldı. NPC için asset bulundu. 3. sprint için daha aktif olunmasına karar verildi çünkü 2. sprint bayram nedeniyle çok verimli kullanılamadı. 3. Sprint için herkes kendi belirlediği kısımları yavas yavas github desktop uygulaması ile projeye ekleyecek ve daha sonra ürünü tamamlayacağız. 
 
+##Sprint Board Update 
 <img width="1042" alt="Screen Shot 2023-07-02 at 22 09 36" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/0e08ec85-1c5d-44a4-adc3-fb85e91c1667">
 
+## Sprint Puanı
 Sprint içinde tamamlanması gereken puan: 150 
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3'e bölerek elde ettiğimiz puan 150'dir. Bu puan sistemi trelloda genel yapılacaklar listesinden belirlenmiştir. Miro Board'da her sprint başı güncelleyerek yapılacaklarımızı düzenleyerek ilerliyoruz.
 
-## Sprint Notları 
+
 Daily Scrum toplantılarının Discord hem ses hem de yazı kanalı üzerinden yapılmasına karar verilmiştir. Bu doğrultuda üyeler katılım sağlamıştır. Toplantı kayıtları için ssler bu linktedir: https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit
 
 ## Sprint 2'deki Ürün Durumu
