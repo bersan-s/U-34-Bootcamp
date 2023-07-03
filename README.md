@@ -22,17 +22,10 @@ https://trello.com/invite/b/YWBU4RTJ/ATTIbd3279164f0ce1c2d00153b65e5c91fc6D23659
 Oyun türü: 	3D fast-paced action-adventure
 First-person 
 	
-# Ürün Durumu 
 
-Sprint 1'deki durum:
 
-<img width="1211" alt="Screen Shot 2023-06-20 at 21 23 50" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/c32de749-fbf7-4189-8793-f72d3bf0d041">
 
-<img width="883" alt="Screen Shot 2023-06-20 at 21 23 59" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/00792b60-1576-4119-8d1b-0fced1e48353">
 
-Sprint 2'deki durum: 
-
-<img width="1174" alt="Screen Shot 2023-07-02 at 13 24 29" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/6bb5bb7f-61cf-499f-b855-74cb259e8a59">
 
 
 
@@ -55,7 +48,7 @@ Ekranın karşısında sorunun kaynağını anlamaya çalışırken yapay zekân
 # Sprint Miro Board 
 https://miro.com/app/board/uXjVM8j0RsA=/?share_link_id=872025880966
 
-# Sprint 1: 
+# SPRINT 1
 
 <img width="625" alt="Screen Shot 2023-06-20 at 21 53 12" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/b9a3c7b5-d15d-46cf-8a28-4dc3521ec28d">
 
@@ -66,6 +59,13 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puan
 Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları Discord’da ses kanalı üzerinden yapıldığı için toplantıya ilişkin ses kayıtları bulunmamakla beraber toplantıya ilişkin konuşmalar aşağıdaki görseller ile örneklendirilmiştir. Toplantılarda ekip üyeleri Akademi game Jam’e ilişkin deneyimlerini paylaşmış, oyun fikrini belirlemiş, senaryoyu oluşturmuş ve iş bölümü yapmıştır.
 
 Toplantı kayıtları için ssler : https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit?usp=sharing 
+
+## Sprint 1'deki Ürün Durumu:
+
+<img width="1211" alt="Screen Shot 2023-06-20 at 21 23 50" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/c32de749-fbf7-4189-8793-f72d3bf0d041">
+
+<img width="883" alt="Screen Shot 2023-06-20 at 21 23 59" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/00792b60-1576-4119-8d1b-0fced1e48353">
+
 
 ## Sprint Review:
 Roller belirlendi.
@@ -79,7 +79,7 @@ Gerekli olduğu düşünülen Assetler bulundu.
 Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 İletişim için mesajlaşmaya da geçilmesi gerektiğine karar verildi. 
 
-# Sprint 2 
+# SPRINT 2
 
 <img width="1042" alt="Screen Shot 2023-07-02 at 22 09 36" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/0e08ec85-1c5d-44a4-adc3-fb85e91c1667">
 
@@ -88,6 +88,10 @@ Sprint içinde tamamlanması gereken puan: 150
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3'e bölerek elde ettiğimiz puan 150'dir. Bu puan sistemi trelloda genel yapılacaklar listesinden belirlenmiştir. Miro Board'da her sprint başı güncelleyerek yapılacaklarımızı düzenleyerek ilerliyoruz.
 
 Daily Scrum: Daily Scrum toplantılarının Discord hem ses hem de yazı kanalı üzerinden yapılmasına karar verilmiştir. Bu doğrultuda üyeler katılım sağlamıştır. Toplantı kayıtları için ssler bu linktedir: https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit
+
+## Sprint 2'deki Ürün Durumu
+
+<img width="1174" alt="Screen Shot 2023-07-02 at 13 24 29" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/6bb5bb7f-61cf-499f-b855-74cb259e8a59">
 
 ## Sprint Review:
 UI/UX Kod yazıldı. 
