@@ -83,7 +83,7 @@ Takım üyelerinin daha aktif olması gerektiğine karar verildi.
 ## Sprint Notları 
 2. sprintte, toplantı notlarında da görülebileceği üzere, Github'dayaşadığımız sıkıntılar çözüldü. Github belgeleri yeniden düzenlendi ve problem çözüldü. Bunun yanı sıra, FPS ve Harita sistemi eklendi. UI için kodlar yazıldı. NPC için asset bulundu. 3. sprint için daha aktif olunmasına karar verildi çünkü 2. sprint bayram nedeniyle çok verimli kullanılamadı. 3. Sprint için herkes kendi belirlediği kısımları yavas yavas github desktop uygulaması ile projeye ekleyecek ve daha sonra ürünü tamamlayacağız. 
 
-##Sprint Board Update 
+## Sprint Board Update 
 <img width="1042" alt="Screen Shot 2023-07-02 at 22 09 36" src="https://github.com/bersan-s/U-34-Bootcamp/assets/122740428/0e08ec85-1c5d-44a4-adc3-fb85e91c1667">
 
 ## Sprint Puanı
