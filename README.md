@@ -55,7 +55,7 @@ https://miro.com/app/board/uXjVM8j0RsA=/?share_link_id=872025880966
 Sprint içinde tamamlanması tahmin edilen puan: 150  Puan
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 150 ile başlaması gerektiğine karar verildi. Bu puan sistemi trelloda genel yapılacaklar listesinden belirlenmiştir.
-
+## Sprint Notları 
 Daily Scrum: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları Discord’da ses kanalı üzerinden yapıldığı için toplantıya ilişkin ses kayıtları bulunmamakla beraber toplantıya ilişkin konuşmalar aşağıdaki görseller ile örneklendirilmiştir. Toplantılarda ekip üyeleri Akademi game Jam’e ilişkin deneyimlerini paylaşmış, oyun fikrini belirlemiş, senaryoyu oluşturmuş ve iş bölümü yapmıştır.
 
 Toplantı kayıtları için ssler : https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit?usp=sharing 
@@ -87,7 +87,8 @@ Sprint içinde tamamlanması gereken puan: 150
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3'e bölerek elde ettiğimiz puan 150'dir. Bu puan sistemi trelloda genel yapılacaklar listesinden belirlenmiştir. Miro Board'da her sprint başı güncelleyerek yapılacaklarımızı düzenleyerek ilerliyoruz.
 
-Daily Scrum: Daily Scrum toplantılarının Discord hem ses hem de yazı kanalı üzerinden yapılmasına karar verilmiştir. Bu doğrultuda üyeler katılım sağlamıştır. Toplantı kayıtları için ssler bu linktedir: https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit
+## Sprint Notları 
+Daily Scrum toplantılarının Discord hem ses hem de yazı kanalı üzerinden yapılmasına karar verilmiştir. Bu doğrultuda üyeler katılım sağlamıştır. Toplantı kayıtları için ssler bu linktedir: https://docs.google.com/document/d/1skway7fLtpMtEeDPlwk8MZzn5HqN45VO0LVjQ-QDMWw/edit
 
 ## Sprint 2'deki Ürün Durumu
 
