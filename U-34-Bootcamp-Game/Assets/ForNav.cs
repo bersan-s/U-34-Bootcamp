@@ -18,19 +18,14 @@ public class ForNav : MonoBehaviour
 
     int enemyH = 3;
 
-   
-
     Animator anim;
     
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         anim = GetComponent<Animator>();
-        
-            
-    }
+       }
 
-   
     void Update()
     {
         agent.SetDestination(target.transform.position);
@@ -45,13 +40,10 @@ public class ForNav : MonoBehaviour
         }
     }
 
-   
-
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Dirt"))
         {
-            Debug.Log("kursunnnnnnnnnnnnnnnnnnn");
             enemyH -= 1;
         }
     }

@@ -17,6 +17,6 @@ public class ForScore : MonoBehaviour
     void Update()
     {
         sText.text = scoreE.ToString();
-        Debug.Log(scoreE);
+        
     }
 }
